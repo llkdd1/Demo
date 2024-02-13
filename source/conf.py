@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Technical Writing Demo'
+project = 'llkdd1's Technical Writing'
 copyright = '2023, Adrian'
-author = 'Adrian'
+author = 'llkdd1'
 release = '2.0'
 
 # -- General configuration ---------------------------------------------------
